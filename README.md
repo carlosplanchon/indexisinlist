@@ -1,5 +1,5 @@
 # indexisinlist
-*Python3 module to know if an index exists on a list.*
+*Python3 module to check if an index exists on a list.*
 
 ## Installation
 ### Install with pip
